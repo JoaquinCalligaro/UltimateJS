@@ -1,3 +1,4 @@
+// Defino las variables
 let a = 25;
 let b = 10;
 
