@@ -1,6 +1,6 @@
 # 🚀 Aprende JavaScript: Ejercicios del Video Tutorial
 
-Este repositorio contiene ejercicios prácticos del curso **"Aprende JavaScript ahora! Curso completo desde cero"** de [AprendeJavaScript.dev](https://www.aprendejavascript.dev/)  
+Este repositorio contiene ejercicios prácticos del curso **"Aprende JavaScript ahora! Curso completo desde cero"** de [Hola Mundo]([https://www.aprendejavascript.dev/](https://github.com/HolaMundoDev))  
 
 > 🔗 [Ver video en YouTube](https://www.youtube.com/watch?v=QoC4RxNIs5M)
 
